@@ -14,7 +14,7 @@ Throughout my career, I have built analytics functions, developed and mentored t
 
 **Selected professional accomplishments include:**
 
-- **Enterprise People Analytics:** Founded and led the Reporting, Data & Analytics function for Walmart U.S. Learning within Global People Analytics, supporting more than one million associates and approximately 200 academies. Hired, coached, and managed four analytics managers.
+- **Enterprise People Analytics:** Led a comprehensive transformation of the Reporting, Data & Analytics function for Walmart U.S. Learning within Global People Analytics, modernizing reporting capabilities, data governance, and analytics processes supporting more than one million associates and approximately 200 academies. Managed analytics managers and contractors, driving improvements in data quality, reporting efficiency, and analytics capabilities.
 - **Data Quality and Governance:** Established KPI definitions, reporting standards, and validation practices, improving critical data quality from below 50% to above 95%.
 - **Procurement Analytics:** Led analytics across approximately $14 billion in indirect spend and more than 3,000 suppliers, identifying approximately $10 million in savings and cost avoidance.
 - **Operational Efficiency:** Automated reporting processes that reduced refresh times from weeks to under one hour, improving efficiency and reducing manual work.
